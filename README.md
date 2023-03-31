@@ -6,7 +6,7 @@ Detect fraud in insurance claims using a range of methods, which are heuristics,
 
 - [@FanXia1227](https://github.com/FanXia1227): Report writing
 - [@Hangbiob](https://github.com/Hangbiob): Heuristic model improvement, report writing, quality check
-- [@jill-data](https://github.com/jill-data): Data cleaning, exploratory data analysis, ML and neural network models improvement, code merging and cleaning, write up (Notebook and README)
+- [@jill-data](https://github.com/jill-data): Data cleaning, exploratory data analysis, ML and neural network models improvement, code merging, write up (Notebook and README)
 - [@SoumyaO](https://github.com/SoumyaO): Auto Encoder model improvement, exploratory data analysis and cleaning
 - [@Wayne599](https://github.com/Wayne599): Heuristic model, baselines for ML, neural network, and Auto Encoder models, data cleaning, exploratory data analysis
 
